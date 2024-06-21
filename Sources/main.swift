@@ -10,3 +10,4 @@ func sum100() {
 
 print("Hello, world!")
 sum100()
+sum100()
